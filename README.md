@@ -19,7 +19,7 @@ This method runs the script as a native browser extension (Manifest V3).
 2. Open your Chromium-based browser and navigate to the extensions page (`chrome://extensions/`).
 3. Enable **Developer mode** (usually a toggle in the top right corner).
 4. Click **Load unpacked** and select the folder containing these repository files (`manifest.json`, `content.js`, etc.).
-5. Visit Audible to see the extension in action!
+5. Enjoy. 
 
 ### Option 2: Tampermonkey (Userscript)
 If you prefer using a script manager, you can install this as a userscript.
@@ -29,4 +29,4 @@ If you prefer using a script manager, you can install this as a userscript.
 3. Copy the entire contents of the `userscript.user.js` file.
 4. Paste it into the Tampermonkey editor, overwriting any default template.
 5. Click **File -> Save** (or press Ctrl+S/Cmd+S).
-6. Visit Audible to see the extension in action!
+6. Enjoy. 
