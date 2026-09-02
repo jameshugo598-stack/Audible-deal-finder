@@ -1,8 +1,8 @@
 # Audible PowerHub & Deal Hunter
 
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/YOUR_KOFI_LINK)
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/s/91ca3214ec)
 
-*Please consider donating to help fund the $5 registration fee so I can publish this extension on the Chrome Web Store!*
+*Please consider donating to help fund the $5 registration fee so I can publish this extension on the Chrome Web Store*
 
 ## Features
 - **Arbitrage Tagger**: Highlights when to Buy Cash (under $7/R100) vs Use Credit (over $25/R350).
