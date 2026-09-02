@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Audible PowerHub & Deal Hunter",
+  "version": "3.2",
+  "description": "Arbitrage Tagger (Buy Cash vs Use Credit), Cost/Hour Badges, Deal Filter & Markdown Export",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.audible.com/*",
+        "*://*.audible.co.uk/*",
+        "*://*.audible.ca/*",
+        "*://*.audible.com.au/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "permissions": [
+    "clipboardWrite"
+  ]
+}

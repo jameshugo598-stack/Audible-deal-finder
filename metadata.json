@@ -1,0 +1,6 @@
+{
+  "name": "Audible PowerHub Repo",
+  "description": "A repository setup for the Audible PowerHub browser extension and userscript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
